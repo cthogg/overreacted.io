@@ -166,7 +166,7 @@ I also wanted to give my first conference talk. Naturally, I wanted to talk abou
 
 In April, my salary got delayed by several weeks. It went through eventually, but I realized it's time to look for a new job. I found some company using one of my projects, and they agreed to sponsor my work on it for a few months.
 
-My girlfriend asked if I wanted to get married. I said I thought I'd get married late in my 30s. She asked: "Why?" I couldn't really find any justification for waiting so we soon bought rings and got married. Our wedding has cost us $100.
+My girlfriend asked if I wanted to get married. I said I thought I'd get married late in my 30s. She asked: "Why?" I couldn't really find any justification for waiting so we soon bought rings and got married. Our wedding cost us $100.
 
 The deadline for my talk was approaching. But I had no idea how to implement "time travel". I knew that Elm had something similar, but I was scared to look at it because I worried I'd find out time travel can't be implemented well in JS.
 
